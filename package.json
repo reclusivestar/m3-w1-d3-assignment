@@ -1,0 +1,30 @@
+{
+  "name": "m3-w1-d3-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon ./start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reclusivestar/m3-w1-d3-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reclusivestar/m3-w1-d3-assignment/issues"
+  },
+  "homepage": "https://github.com/reclusivestar/m3-w1-d3-assignment#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-validator": "^7.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "pug": "^3.0.3"
+  }
+}
